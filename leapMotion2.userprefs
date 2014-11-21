@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LeapMotion\Scripts\HandController.cs">
+    <Files>
+      <File FileName="Assets\LogikaSkrypt.cs" Line="15" Column="2" />
+      <File FileName="Assets\LeapMotion\Scripts\HandController.cs" Line="145" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
